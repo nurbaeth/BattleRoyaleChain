@@ -37,7 +37,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
 
 ## 🚀 Quickstart
 
-Clone the repo:
+Clone the repo: 
 
 ```bash
 git clone https://github.com/your-username/BattleRoyaleChain.git
