@@ -12,7 +12,7 @@
        
 Every movement, every attack, and every zone update is stored immutably on-chain.    
   
----
+---  
 
 ## 🗺️ Game Rules 
 
