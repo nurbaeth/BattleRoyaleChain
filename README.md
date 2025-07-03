@@ -4,7 +4,7 @@
     
 > No frontend. No mercy. Just pure EVM warfare.    
      
---- 
+---   
 
 ## 🎮 What is BattleRoyaleChain?  
 
