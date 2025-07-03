@@ -3,7 +3,7 @@
 **An on-chain battle royale game built entirely in Solidity.**  
     
 > No frontend. No mercy. Just pure EVM warfare.    
-  
+     
 --- 
 
 ## 🎮 What is BattleRoyaleChain?  
