@@ -24,7 +24,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
 - 🏆 Last player standing wins (off-chain reward can be added)
 
 ---
-
+ 
 ## 🔧 Tech Stack
 
 | Layer     | Stack                            |
