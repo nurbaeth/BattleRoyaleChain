@@ -14,7 +14,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
    
 ---  
     
-## 🗺️ Game Rules    
+## 🗺️ Game Rules     
    
 - 🌐 Max 10 players   
 - 🟢 Game starts when 10 players join 
