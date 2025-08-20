@@ -22,7 +22,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
 - ⚔️ Attack adjacent players with `attack(address)` 
 - ☠️ Zone shrinks every 10 turns — players outside lose HP  
 - 🏆 Last player standing wins (off-chain reward can be added) 
-
+ 
 ---
  
 ## 🔧 Tech Stack
