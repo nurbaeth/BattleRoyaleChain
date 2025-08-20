@@ -11,7 +11,7 @@
 `BattleRoyaleChain` is a fully on-chain, turn-based battle royale strategy game inspired by **Fortnite**, designed to run entirely on the Ethereum Virtual Machine (EVM). Up to 10 players spawn on a shrinking 10×10 map, move, attack, and survive until only one remains.    
           
 Every movement, every attack, and every zone update is stored immutably on-chain.    
-   
+    
 ---  
     
 ## 🗺️ Game Rules     
