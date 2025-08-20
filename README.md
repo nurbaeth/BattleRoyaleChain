@@ -29,7 +29,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
  
 | Layer     | Stack                            | 
 |-----------|----------------------------------| 
-| Language  | Solidity 0.8.24                  |
+| Language  | Solidity 0.8.24                  | 
 | Framework | Hardhat (optional)               |
 | Network   | Ethereum-compatible (Sepolia, Base, Polygon) |
 
