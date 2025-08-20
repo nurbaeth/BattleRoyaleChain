@@ -1,4 +1,4 @@
-# 🪙 BattleRoyaleChain     
+# 🪙 BattleRoyaleChain       
     
 **An on-chain battle royale game built entirely in Solidity.**  
      
