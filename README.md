@@ -15,7 +15,7 @@ Every movement, every attack, and every zone update is stored immutably on-chain
 ---   
      
 ## 🗺️ Game Rules      
-     
+      
 - 🌐 Max 10 players     
 - 🟢 Game starts when 10 players join    
 - 🕹️ Players take turns to `move("up")`, `move("down")`, `move("left")`, `move("right")` 
